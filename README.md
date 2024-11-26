@@ -18,3 +18,9 @@ python版本必须要3.8以上
 pip install wxauto
 
 pip install openai
+
+
+
+
+https://github.com/user-attachments/assets/e7f959be-30b3-4c0d-991c-ba76c3c90273
+
